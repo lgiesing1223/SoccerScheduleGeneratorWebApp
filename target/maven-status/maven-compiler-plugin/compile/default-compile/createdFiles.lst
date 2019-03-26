@@ -1,0 +1,4 @@
+servlets/SoccerScheduleServlet.class
+Game.class
+database/DBConnector.class
+SoccerSchedule.class

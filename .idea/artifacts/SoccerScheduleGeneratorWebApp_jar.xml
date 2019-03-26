@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoccerScheduleGeneratorWebApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoccerScheduleGeneratorWebApp_jar</output-path>
+    <root id="archive" name="SoccerScheduleGeneratorWebApp.jar">
+      <element id="module-output" name="SoccerScheduleGeneratorWebApp" />
+    </root>
+  </artifact>
+</component>
